@@ -37,14 +37,14 @@ Fresh Fri Cooking Oil 5L,1520,,5L,yes,cooking-oils,/images/products/shelf-028.we
 Rina Vegetable Oil 3L,1000,,3L,yes,cooking-oils,/images/products/pack-rinaoil.webp
 Rina Vegetable Oil 5L,1520,,5L,yes,cooking-oils,/images/products/pack-rinaoil.webp
 Rina Vegetable Oil 1L,980,,1L,yes,cooking-oils,/images/products/pack-rinaoil.webp
-Dola Cooking Oil 1L,370,,1L,yes,cooking-oils,/images/products/shelf-050.webp
-Dola Cooking Oil 3L,980,,3L,yes,cooking-oils,/images/products/shelf-078.webp
-Dola Cooking Oil 5L,1550,,5L,yes,cooking-oils,/images/products/shelf-092.webp
+Postman Cooking Oil 1L,370,,1L,yes,cooking-oils,/images/products/shelf-050.webp
+Rina Cooking Oil 3L,980,,3L,yes,cooking-oils,/images/products/shelf-078.webp
+Postman Cooking Oil 5ooml,170,,500ml,yes,cooking-oils,/images/products/shelf-092.webp
 Kasuku Cooking Fat 500g,195,,500g,yes,cooking-oils,/images/products/pack-kasukuoil.webp
 Kasuku Cooking Fat 1kg,380,,1kg,yes,cooking-oils,/images/products/shelf-072.webp
 Aquamist Apple Water 500ml,50,,500ml,yes,beverages,/images/products/shelf-213.webp
-Fanta Orange 2L,200,,2L,yes,beverages,/images/products/shelf-288.webp
-Fanta Passion 2L,200,,2L,yes,beverages,/images/products/shelf-288.webp
+Sprite Soda 2L,200,,2L,yes,beverages,/images/products/shelf-288.webp
+Minute Maid 2L,200,,2L,yes,beverages,/images/products/shelf-288.webp
 Fanta Blackcurrant 2L,200,,2L,yes,beverages,/images/products/shelf-288.webp
 Coca-Cola 2L,200,,2L,yes,beverages,/images/products/shelf-001.webp
 Pick N Peel Apple Juice 1L,310,,1L,yes,beverages,/images/products/shelf-290.webp
@@ -60,7 +60,7 @@ Mountain Dew 500ml,70,,500ml,yes,beverages,/images/products/shelf-266.webp
 Shiriki Instant Coffee Classic 100g,679,,100g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
 Sasini Instant Coffee 50g,335,,50g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
 Java House Espresso Ground Coffee 375g,1449,,375g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
-Dormans Continental Coffee Beans 375g,1099,,375g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
+Faraja Kenyan Premium Tea 500g,317,,500g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
 Dormans Coffee House Medium Roast 250g,529,,250g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
 Dormans 3-in-1 Coffee 18g,30,,18g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
 Maccoffee Gold Instant Coffee Stick 1.6g,15,,1.6g,yes,coffee-tea-sugar,/images/products/shelf-127.webp
@@ -80,8 +80,8 @@ Morning Fresh Dishwashing Liquid 750ml,259,,750ml,yes,household,/images/products
 Harpic Power Plus Lavender 500ml,575,,500ml,yes,household,/images/products/shelf-161.webp
 Ace Toilet Cleaner 250ml,170,,250ml,yes,household,/images/products/shelf-122.webp
 Ridsect All Insect Killer 100ml,230,,100ml,yes,household,/images/products/shelf-105.webp
-Celine Toilet Tissue 10-pack,475,,10-pack,yes,household,/images/products/shelf-076.webp
-Celine Toilet Tissue 4-pack,179,,4-pack,yes,household,/images/products/shelf-110.webp
+Bella Toilet Tissue 10-pack,475,,10-pack,yes,household,/images/products/shelf-076.webp
+Neptune Toilet Tissue 4-pack,179,,4-pack,yes,household,/images/products/shelf-110.webp
 Panda Toilet Tissue 4-pack,175,,4-pack,yes,household,/images/products/shelf-059.webp
 Sokoni Steel Wool 24 × 20g,210,,24 × 20g,yes,household,/images/products/shelf-021.webp
 Glade Air Freshener I Love You 300ml,300,,300ml,yes,household,/images/products/shelf-199.webp
@@ -100,7 +100,7 @@ Isinya Eggs 30 pieces,480,,30 pieces,yes,dairy-bakery,/images/products/pack-eggs
 Fresh White Bread 1.5kg,189,,1.5kg,yes,dairy-bakery,/images/products/pack-bread.webp
 Fresh Scones 400g,69,,400g,yes,dairy-bakery,/images/products/shelf-325.webp
 K.C.C Fresh Milk 500ml,85,,500ml,yes,dairy-bakery,/images/products/shelf-263.webp
-Daima UHT Fino Bora 500ml,70,,500ml,yes,dairy-bakery,/images/products/shelf-293.webp
+Arimis jelly Bora 200ml,70,,200ml,yes,dairy-bakery,/images/products/shelf-293.webp
 Mt. Kenya Fino 500ml,75,,500ml,yes,dairy-bakery,/images/products/shelf-272.webp
 Delamere Strawberry Fruit Yoghurt 450ml,120,,450ml,yes,dairy-bakery,/images/products/shelf-349.webp
 Brookside Probiotic Strawberry 450g,180,,450g,yes,dairy-bakery,/images/products/shelf-343.webp
@@ -117,7 +117,7 @@ Cinnamon 100g,220,,100g,yes,sauces-spices,/images/products/shelf-250.webp
 Tropical Heat Pilau Masala,150,,Single pack,yes,sauces-spices,/images/products/shelf-294.webp
 Potato Crisps - Salted,115,,Single pack,yes,snacks,/images/products/shelf-380.webp
 Potato Crisps,65,,Single pack,yes,snacks,/images/products/pack-tomatocrisps.webp
-Chapa Mandashi,35,,Single pack,yes,snacks,/images/products/shelf-325.webp
+Vannila cake,35,,Single pack,yes,snacks,/images/products/shelf-325.webp
 FM White Bread 600g,100,,600g,yes,dairy-bakery,/images/products/shelf-338.webp
 FM White Bread 800g,130,,800g,yes,dairy-bakery,/images/products/shelf-338.webp
 Fresh White Bread 400g,65,,400g,yes,dairy-bakery,/images/products/shelf-338.webp
@@ -126,7 +126,7 @@ FM Wholemeal Bread 600g,100,,600g,yes,dairy-bakery,/images/products/shelf-338.we
 Festive Deluxe Rolls 6 pieces,55,,6 pieces,yes,dairy-bakery,/images/products/shelf-344.webp
 Fresh Melting Choc Dips,65,,Single pack,yes,dairy-bakery,/images/products/shelf-325.webp
 FM Iced Topped Doughnut 350g,179,,350g,yes,dairy-bakery,/images/products/shelf-330.webp
-FM Vanilla Cookies 200g,120,,200g,yes,dairy-bakery,/images/products/shelf-336.webp
+FM Yego Biscuits 200g,120,,200g,yes,dairy-bakery,/images/products/shelf-336.webp
 FM Party Muffin 100g,80,,100g,yes,dairy-bakery,/images/products/shelf-344.webp
 FM Strawberry Doughnut,170,,Single pack,yes,dairy-bakery,/images/products/shelf-330.webp
 FM Vegetable Pie 160g,100,,160g,yes,dairy-bakery,/images/products/shelf-323.webp
