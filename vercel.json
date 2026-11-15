@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/product/persil-machine-wash-3kg", "destination": "/product/omo-sachet-20g", "permanent": true }
+    { "source": "/product/persil-machine-wash-3kg", "destination": "/product/persil-sachet-20g", "permanent": true }
   ],
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
